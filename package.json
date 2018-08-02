@@ -1,0 +1,25 @@
+{
+  "name": "multipartrequest",
+  "version": "1.0.0",
+  "description": "support",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs-extra": "^7.0.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/succulentpup/multipartrequest.git"
+  },
+  "author": "supportPup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/succulentpup/multipartrequest/issues"
+  },
+  "homepage": "https://github.com/succulentpup/multipartrequest#readme"
+}
